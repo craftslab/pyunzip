@@ -1,0 +1,7 @@
+colorama
+coverage
+coveralls
+pytest
+setuptools
+twine
+wheel
