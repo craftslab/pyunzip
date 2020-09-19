@@ -70,6 +70,7 @@ Project License can be found [here](https://github.com/craftslab/pyunzip/blob/ma
 
 ## Reference
 
+- [ZIP specification](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 - [conflux](https://github.com/transcend-io/conflux)
 - [node-unzip](https://github.com/EvanOxfeld/node-unzip)
 - [python-zipstream](https://github.com/allanlei/python-zipstream)
