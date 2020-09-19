@@ -1,4 +1,4 @@
-# PyUnzip
+# pyunzip
 
 [![PyPI](https://img.shields.io/pypi/v/pyunzip.svg?color=brightgreen)](https://pypi.org/project/pyunzip/)
 [![Travis](https://travis-ci.com/craftslab/pyunzip.svg?branch=master)](https://travis-ci.com/craftslab/pyunzip)
@@ -7,7 +7,7 @@
 
 
 
-*PyUnzip* is a streaming unzip utility written in Python.
+*pyunzip* is a streaming unzip utility written in Python.
 
 
 
@@ -20,7 +20,7 @@
 
 ## Installation
 
-On Ubuntu / Mint, install *PyUnzip* with the following commands:
+On Ubuntu / Mint, install *pyunzip* with the following commands:
 
 ```bash
 apt update
@@ -28,13 +28,13 @@ apt install -y python3-dev python3-pip python3-setuptools
 pip install -y pyunzip
 ```
 
-On OS X, install *PyUnzip* via [Homebrew](https://brew.sh/) (or via [Linuxbrew](https://linuxbrew.sh/) on Linux):
+On OS X, install *pyunzip* via [Homebrew](https://brew.sh/) (or via [Linuxbrew](https://linuxbrew.sh/) on Linux):
 
 ```
 TBD
 ```
 
-On Windows, install *PyUnzip* with the following commands:
+On Windows, install *pyunzip* with the following commands:
 
 ```
 pip install -U pywin32
