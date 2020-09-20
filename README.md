@@ -25,7 +25,7 @@ On Ubuntu / Mint, install *pyunzip* with the following commands:
 ```bash
 apt update
 apt install -y python3-dev python3-pip python3-setuptools
-pip install -y pyunzip
+pip install pyunzip
 ```
 
 On OS X, install *pyunzip* via [Homebrew](https://brew.sh/) (or via [Linuxbrew](https://linuxbrew.sh/) on Linux):
