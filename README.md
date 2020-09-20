@@ -13,14 +13,14 @@
 
 ## Requirement
 
-- python (3.7+)
+- python (3.8+)
 - pip
 
 
 
 ## Installation
 
-On Ubuntu / Mint, install *pyunzip* with the following commands:
+### Ubuntu
 
 ```bash
 apt update
@@ -28,13 +28,9 @@ apt install -y python3-dev python3-pip python3-setuptools
 pip install pyunzip
 ```
 
-On OS X, install *pyunzip* via [Homebrew](https://brew.sh/) (or via [Linuxbrew](https://linuxbrew.sh/) on Linux):
 
-```
-TBD
-```
 
-On Windows, install *pyunzip* with the following commands:
+### Windows
 
 ```
 pip install -U pywin32
