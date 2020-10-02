@@ -1,6 +1,6 @@
 # pyunzip
 
-[![Actions Status](https://github.com/actions/runner/workflows/Runner%20CI/badge.svg)](https://github.com/craftslab/pyunzip/actions)
+[![Actions Status](https://github.com/craftslab/pyunzip/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/craftslab/pyunzip/actions?query=workflow%3ACI)
 [![PyPI](https://img.shields.io/pypi/v/pyunzip.svg?color=brightgreen)](https://pypi.org/project/pyunzip/)
 [![License](https://img.shields.io/github/license/craftslab/pyunzip.svg?color=brightgreen)](https://github.com/craftslab/pyunzip/blob/master/LICENSE)
 
