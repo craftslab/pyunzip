@@ -13,8 +13,7 @@
 
 ## Requirement
 
-- python (3.8+)
-- pip
+- Python >= 3.8
 
 
 
@@ -33,11 +32,8 @@ pip install pyunzip
 ### Windows
 
 ```
-pip install -U pywin32
-pip install -U pyinstaller
-pip install -Ur requirements.txt
-
-pyinstaller --clean --name pyunzip -F unzip.py
+# Install Python, Microsoft Visual C++ and Windows SDK
+pip install pyunzip
 ```
 
 
