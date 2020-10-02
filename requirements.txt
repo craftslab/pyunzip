@@ -1,6 +1,11 @@
+black
 colorama
 coverage
 coveralls
+hypothesis
+flake8
+mypy
+pre-commit
 pytest
 setuptools
 twine

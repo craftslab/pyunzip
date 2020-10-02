@@ -1,7 +1,0 @@
-*.md
-*.log
-*.txt
-.git
-.github
-docs
-Dockerfile
